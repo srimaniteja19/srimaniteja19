@@ -1,4 +1,4 @@
-### Hi there, I am Maniteja 👋
+## Hi there, I am Maniteja 👋
 
 ![Profile](Github1.gif)
 
