@@ -1,6 +1,6 @@
 ### Hi there, I am Maniteja 👋
 
-![Profile]()
+![Profile](Github.gif)
 
 
 - 🔭 I’m currently working on personal projects
